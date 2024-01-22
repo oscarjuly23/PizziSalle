@@ -22,5 +22,5 @@ El patrón Builder se ha utilizado para construir el objeto 'Pizza' de cada pizz
 El patrón Decorator ha sido útil para tener en cuenta los ingredientes extras. Como al final deben ser como un ingrediente más de la pizza además de los que ya tiene apriori, con este patrón se ha podido modificar el objeto de pizza original sin cambiar la base de los demás objetos del mismo tipo.
 
 ##
-@author: Oscar Julian
+@author: Oscar Julian  
 @date: 09 de Enero 2022
